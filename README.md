@@ -1,4 +1,4 @@
-# イスカンダルのトーフ屋 Prolog版
+# イスカンダルのトーフ屋 Prolog と Common Lisp 版
 
 ### 初出: 2012/DEC/09  
 ###  <a href="http://www.takeoka.org/~take">たけおか@AXE (竹岡尚三)</a>
