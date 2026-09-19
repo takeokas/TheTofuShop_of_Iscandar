@@ -79,7 +79,7 @@ y や n の後にも必ず! つまり、「y.」や「n.」と入力する。<br
 <br>
 <br>
 ## Common Lisp 版  
-<a href="http:tofu.lisp" target="_blank">Common Lisp版 「イスカンダルのトーフ屋ゲーム」(ソース,文字コードはUTF-8です)</a><br>
+<a href="tofu.lisp" target="_blank">Common Lisp版 「イスカンダルのトーフ屋ゲーム」(ソース,文字コードはUTF-8です)</a><br>
 <br>
  このCommon Lisp版も完全なフリーソフトウェアです。
   <br>
