@@ -1,6 +1,6 @@
 # イスカンダルのトーフ屋 Prolog と Common Lisp 版
 
-### 初出: 2012/DEC/09  
+### 初出: 2012/DEC/08  
 ###  <a href="http://www.takeoka.org/~take">たけおか@AXE (竹岡尚三)</a>
 
 <BR>
@@ -46,7 +46,7 @@ UNIX(Linux,BSD)だと、Perl版がありがたい。
  Perl版を開発された永野圭一郎氏に感謝し、敬意を表したい。  
 <br><br>
 
-## Prolog 版
+## Prolog 版 (初出: 2012/DEC/09)  
 <a href="tofu.prolog" target="_blank">prolog版 「イスカンダルのトーフ屋ゲーム」(ソース,文字コードはUTF-8です)</a><br>
 <br>
  このProlog版も完全なフリーソフトウェアです。  
@@ -78,7 +78,7 @@ y や n の後にも必ず! つまり、「y.」や「n.」と入力する。<br
 <br>
 <br>
 <br>
-## Common Lisp 版  
+## Common Lisp 版 (初出: 2012/DEC/08)    
 <a href="tofu.lisp" target="_blank">Common Lisp版 「イスカンダルのトーフ屋ゲーム」(ソース,文字コードはUTF-8です)</a><br>
 <br>
  このCommon Lisp版も完全なフリーソフトウェアです。
